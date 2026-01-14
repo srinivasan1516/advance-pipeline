@@ -5,7 +5,7 @@ agent any
 stages {
 stage('Clone Repo') {
 steps {
-git 'https://github.com/your-repo/blue-green-app.git'
+git 'https://github.com/srinivasan1516/advance-pipeline.git'
 }
 }
 
